@@ -1,0 +1,77 @@
+for (int i = 0; i < 5; i++)
+{
+    ConsoleWriteline($"{i}");
+}
+
+for (int i = 0; i <= 6; i += 2)
+{
+    ConsoleWriteline($"{i}")
+}
+
+for (int i = 0; i <= 3; i++)
+{
+    ConsoleWriteline($"{i}")
+}
+
+for (int i = 0; i < 5; i += 3)
+{
+    ConsoleWriteline($"{i + 1 - 1}")
+}
+
+for (int i = 10; i > 0; i -= 1)
+{
+    ConsoleWriteline($"i is {i}")
+}
+
+for (int i = 0; i < 0; i++)
+{
+    ConsoleWriteline($"{i}")
+}
+
+for (int i = 1512; i >= 511; i -= 250)
+{
+    ConsoleWriteline($"{i}")
+}
+
+for (int i = 0; i < 5; i++)
+{
+    ConsoleWriteline($"{i}")
+}
+
+for (int i = 0; i <= 1; i++)
+{
+    ConsoleWriteline($"{i}")
+}
+
+for (int i = 0; i < 4; i += 2)
+{
+    ConsoleWriteline($"{i}")
+} 
+
+10
+-------
+
+for (int i = 0; i > -5; i--)
+{
+    ConsoleWriteline($"I like the number {i}")
+}
+
+for (double i = 5000000; i >= 0; i -= 500000)
+{
+    ConsoleWriteline($"{i} is a massive number")
+}
+
+for (int i = 0; i < 7; i++)
+{
+    ConsoleWriteline($"{i}")
+}
+
+for (int i = 4; i < 18; i += 2)
+{
+    ConsoleWriteline($"{i} is an even number")
+}
+
+for (int int = 0; i >= 0 ; i++)
+{
+    ConsoleWriteline($"{i} is still just {0})
+}
